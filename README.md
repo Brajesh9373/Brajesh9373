@@ -8,11 +8,11 @@
 
 ## 🚀 Professional Overview
 
-AI & Data Analytics engineer who builds **AI agents, ML pipelines, and analytics dashboards** that turn raw data into business-ready KPIs. I'm comfortable taking ideas from research to production — designing agentic workflows, engineering synthetic data, and shipping cloud-automated analytics.
+I build **agentic AI systems that bridge data and business impact**. My sweet spot is taking ML ideas from concept to production — whether that's a natural-language SQL agent, a live GCP monitoring workflow, or an analytics dashboard that tracks KPIs at scale. I work primarily with **Python, LangChain/LangGraph, cloud platforms (GCP), and full-stack dashboards**, and I'm driven by solving real-world problems in fintech and clean energy.
 
-- 🔭 **Currently:** Building AegisAI, a role-based multi-agent platform with knowledge-graph memory and human-in-the-loop approvals.
-- 🎓 **Studying:** BTech in AI & ML at Universal AI University.
-- 💼 **Recent work:** Company-aware SQL automation and live GCP log monitoring at Navadhan Capital.
+- 🔭 **Currently:** Building **AegisAI** — a role-based multi-agent platform with hierarchical memory, knowledge-graph retrieval, and human-in-the-loop approvals.
+- 💼 **Proven at:** Delivering production-grade automation at Navadhan Capital, Univitt AI, and V Analytics — including SQLBot, GCP log monitoring, and 15K+ record validation pipelines.
+- 🏆 **Recognized at:** BeyondBots (1st Place) and IdeatorX 3.0 (2nd Place)
 
 ---
 
