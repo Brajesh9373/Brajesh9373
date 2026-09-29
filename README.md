@@ -96,8 +96,8 @@ Personalized study plans, quizzes, analytics, and gamification.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Brajesh9373&show_icons=true&theme=radical" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brajesh9373&layout=compact&theme=radical" alt="Top Languages" width="49%" />
+  <img src="https://stardev.xyz/api?username=Brajesh9373&show_icons=true&theme=radical" alt="GitHub Stats" width="49%" />
+  <img src="https://stardev.xyz/api/top-langs/?username=Brajesh9373&layout=compact&theme=radical" alt="Top Languages" width="49%" />
 </p>
 
 ---
@@ -105,7 +105,7 @@ Personalized study plans, quizzes, analytics, and gamification.
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Brajesh9373&theme=react-dark&hide_border=false" alt="Contribution Graph" width="90%" />
+  <img src="https://activity-graph.com/graph?username=Brajesh9373&theme=react-dark&hide_border=false" alt="Contribution Graph" width="90%" />
 </p>
 
 ---
