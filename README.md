@@ -1,77 +1,113 @@
 # Hi there, I'm Brajesh! 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A970FF&center=true&vCenter=true&width=435&lines=AI%2FML+Engineer;Time-Series+Forecasting+Expert;Full+Stack+Developer;Turning+Data+into+Insights" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A970FF&center=true&vCenter=true&width=460&lines=AI+%26+Data+Analytics+Engineer;Building+AI+Agents+%7C+ML+Pipelines;Full+Stack+%2B+Cloud+Automations" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🚀 Professional Summary
-I am an **AI/ML Engineer** specializing in turning raw data into actionable business insights. With hands-on experience in **Time-Series Forecasting**, **Synthetic Data Generation**, and **Interactive Dashboarding**, I build end-to-end ML workflows that drive real-world impact.
+## 🚀 Professional Overview
 
-- 🔭 **Current Focus:** Machine Learning Engineering at **Navadhan Capital**.
-- 🎓 **Academic Path:** Pursuing BTech in AI & ML at **Universal AI University**.
-- 🛠️ **Core Strength:** Bridging the gap between complex data analytics and business-ready KPIs.
+AI & Data Analytics engineer who builds **AI agents, ML pipelines, and analytics dashboards** that turn raw data into business-ready KPIs. I'm comfortable taking ideas from research to production — designing agentic workflows, engineering synthetic data, and shipping cloud-automated analytics.
 
----
-
-### 💼 Experience
-
-**Machine Learning Engineer Intern** | *Navadhan Capital* | `April 2026 - Present`
-- Focusing on advanced ML implementations and financial data analytics.
-
-**Data Analyst Intern** | *Univitt AI Technologies* | `Sept 2025 - Dec 2025`
-- Developed an interactive analytical dashboard to visualize trends, anomalies, and KPIs.
-- Engineered time-series synthetic data generation for production-scale datasets.
-- Performed deep data cleaning and validation to compute missing critical parameters.
-
-**ML Intern** | *V analytics* | `June 2024 - July 2024`
-- Built predictive models using `scikit-learn` and `pandas` for real-world business datasets.
-- Optimized model accuracy through rigorous feature engineering and validation pipelines.
+- 🔭 **Currently:** Building AegisAI, a role-based multi-agent platform with knowledge-graph memory and human-in-the-loop approvals.
+- 🎓 **Studying:** BTech in AI & ML at Universal AI University.
+- 💼 **Recent work:** Company-aware SQL automation and live GCP log monitoring at Navadhan Capital.
 
 ---
 
-### 🎓 Education
+## 💼 Experience
 
-- **BTech in Artificial Intelligence and Machine Learning** | *Universal AI University* (`2025 - 2028`)
-- **Diploma in Artificial Intelligence and Machine Learning** | *K. K. Wagh Polytechnic* (`2022 - 2025`)
+**AI Intern** | *Navadhan Capitals Pvt. Ltd.* | `Apr 2026 – Jul 2026`
+- Built **SQLBot**, a company-aware natural-language-to-SQL agent powered by business rules and database mappings.
+- Developed an **SRE agent** that monitors live GCP logs, maps failures to Bitbucket repos, and auto-generates root-cause reports.
+- Created **OpenClaw-based agents** for repository analysis and conflict-resolution assistance.
+- Automated validation of **15,000+ loan accounts** and built GPS distance-estimation workflows using Python & Pandas.
+
+**Data Analyst** | *Univitt AI Technologies Pvt. Ltd.* | `Aug 2025 – Nov 2025`
+- Built a **Solar PV Degradation Dashboard** for performance, reliability, and KPI analysis.
+- Cleaned, validated, and transformed production-scale datasets; engineered synthetic time-series data.
+- Performed anomaly detection, feature extraction, and trend analysis to derive missing parameters.
+
+**Machine Learning Intern** | *V Analytics Pvt. Ltd.* | `Jun 2024 – Jul 2024`
+- Built a **Flight Ticket Price Prediction** model (89% accuracy) deployed via Streamlit.
+- Delivered end-to-end pipeline: data cleaning, EDA, feature engineering, model evaluation, and web inference.
 
 ---
 
-### 🛠️ Tech Stack
+## 📦 Featured Projects
 
-**AI & Machine Learning**
+**AegisAI** — *AI Organizational Platform* (In Development)
+A role-based multi-agent platform with hierarchical memory, knowledge-graph capabilities, and human-in-the-loop approval workflows.
+
+**SQLBot** — *Natural-Language-to-SQL*
+Company-aware SQL generation using business rules and database mappings.
+
+**Solar PV Degradation Dashboard**
+Interactive Dash dashboard for monitoring solar panel performance and KPIs.
+
+**AI-Powered Learning Hub**
+Personalized study plans, quizzes, analytics, and gamification.
+
+---
+
+## 🏆 Achievements
+
+- 🥇 **1st Place — BeyondBots AI Innovation Challenge** 2025
+- 🥈 **2nd Place — IdeatorX 3.0**, IESMCRC, Mumbai 2025
+
+---
+
+## 🎓 Education
+
+- **BTech in Artificial Intelligence & ML** | *Universal AI University* | `2025 – 2028`
+- **Diploma in Artificial Intelligence & ML** | *K. K. Wagh Polytechnic* | `2022 – 2025` · 88%
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/c-AF8000?style=for-the-badge&logo=c&logoColor=white)
+
+**AI & ML**
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-336850?style=for-the-badge&logo=langchain&logoColor=fff)
+![LangGraph](https://img.shields.io/badge/LangGraph-336850?style=for-the-badge&logo=langgraph&logoColor=fff)
 
 **Visualization & Dashboards**
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![Dash](https://img.shields.io/badge/Dash-%23003B7D.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black)
+![Plotly](https://img.shields.io/badge/plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Dash](https://img.shields.io/badge/dash-003B7D?style=for-the-badge&logo=plotly&logoColor=white)
+![Streamlit](https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)
 
-**Web & Dev Tools**
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+**Cloud & DevOps**
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Git](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Brajesh9373&show_icons=true&theme=radical" alt="Brajesh's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brajesh9373&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Brajesh9373&show_icons=true&theme=radical" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brajesh9373&layout=compact&theme=radical" alt="Top Languages" width="49%" />
 </p>
 
 ---
 
-### 📬 Connect with me
+## 📬 Let's connect
+
 <p align="left">
-<a href="https://github.com/Brajesh9373"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/brajesh-kurkure"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Brajesh9373"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/brajesh-kurkure"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:brajesh.kurkure@universalai.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center">
