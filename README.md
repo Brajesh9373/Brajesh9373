@@ -95,9 +95,24 @@ Personalized study plans, quizzes, analytics, and gamification.
 
 ## 📊 GitHub Stats
 
+**At a glance** — live counts powered by the GitHub API (always up):
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Brajesh9373&show_icons=true&theme=radical" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brajesh9373&layout=compact&theme=radical" alt="Top Languages" width="49%" />
+  <img src="https://img.shields.io/github/followers/Brajesh9373?style=flat-square&label=Followers&color=181717" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Brajesh9373?style=flat-square&label=GitHub%20Stars&color=dd4343" alt="Stars" />
+  <img src="https://img.shields.io/badge/dynamic/json?label=Following&query=$.following&url=https://api.github.com/users/Brajesh9373&style=flat-square&color=6e5494" alt="Following" />
+  <img src="https://img.shields.io/badge/dynamic/json?label=Repositories&query=$.public_repos&url=https://api.github.com/users/Brajesh9373&style=flat-square&color=4285F4" alt="Repositories" />
+</p>
+
+**Top Languages** (based on code across public repos):
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-89.4%25-3572A5?style=flat-square" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3.8%25-3178C6?style=flat-square" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-1.8%25-F1E05A?style=flat-square" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Jupyter%20Notebook-1.4%25-DA5B0B?style=flat-square" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/C-1.1%25-555555?style=flat-square" alt="C" />
+  <img src="https://img.shields.io/badge/CSS-0.5%25-663399?style=flat-square" alt="CSS" />
 </p>
 
 ---
