@@ -1,67 +1,84 @@
-# Hi there, I'm Brajesh! 👋
+# Hi there, I'm Brajesh Manohar Kurkure! 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A970FF&center=true&vCenter=true&width=460&lines=AI+%26+Data+Analytics+Engineer;Building+AI+Agents+%7C+ML+Pipelines;Full+Stack+%2B+Cloud+Automations" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A970FF&center=true&vCenter=true&width=460&lines=AI+Engineer+%26+Startup+Builder;Founding+Engineer+%40+WorkSimplified;Agentic+AI+%7C+ML+Pipelines+%7C+Data" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🚀 Professional Overview
 
-I build **agentic AI systems that bridge data and business impact**. My sweet spot is taking ML ideas from concept to production — whether that's a natural-language SQL agent, a live GCP monitoring workflow, or an analytics dashboard that tracks KPIs at scale. I work primarily with **Python, LangChain/LangGraph, cloud platforms (GCP), and full-stack dashboards**, and I'm driven by solving real-world problems in fintech and clean energy.
+I'm an **AI engineer and startup builder** focused on **agentic AI and enterprise systems** — taking ML ideas from concept to production. Currently **Founding Engineer at WorkSimplified**, where I'm building an AI Project-State & Validation Engine that turns fragmented conversations, documents, and stakeholder interactions into an evidence-backed project state, with a validation layer between probabilistic AI and deterministic enterprise systems (Frappe, SAP, Jira).
 
-- 🔭 **Currently:** Building **AegisAI** — a role-based multi-agent platform with hierarchical memory, knowledge-graph retrieval, and human-in-the-loop approvals.
-- 💼 **Proven at:** Delivering production-grade automation at Navadhan Capital, Univitt AI, and V Analytics — including SQLBot, GCP log monitoring, and 15K+ record validation pipelines.
-- 🏆 **Recognized at:** BeyondBots (1st Place) and IdeatorX 3.0 (2nd Place)
+Previously, I founded **AegisOS**, an AI organizational operating system with specialized agents, roles, hierarchy, and persistent organizational memory — selected for the **AltaLab Winter 2026** cohort — and pivoted from it to WorkSimplified.
+
+- 🔭 **Currently:** Founding Engineer @ WorkSimplified (remote) — AI Project-State & Validation Engine
+- 💼 **Proven at:** Navadhan Capitals, Univitt AI Technologies, V Analytics — SQLBot, AI/SRE workflows over GCP logs, Solar PV degradation analytics, and validation of 15,244 loan accounts
+- 🏆 **Recognized at:** BeyondBots (1st Place), IdeatorX 3.0 (2nd Place), IT QUEST (Winner), LoGMIEER TechFest 2K25 (Runner-up)
+- 🌱 **Selected for:** AltaLab Winter 2026, Claude for Startups, NVIDIA Inception, Sarvam Startup Program
 
 ---
 
 ## 💼 Experience
 
-**AI Intern** | *Navadhan Capitals Pvt. Ltd.* | `Apr 2026 – Jul 2026`
-- Built **SQLBot**, a company-aware natural-language-to-SQL agent powered by business rules and database mappings.
-- Developed an **SRE agent** that monitors live GCP logs, maps failures to Bitbucket repos, and auto-generates root-cause reports.
-- Created **OpenClaw-based agents** for repository analysis and conflict-resolution assistance.
-- Automated validation of **15,000+ loan accounts** and built GPS distance-estimation workflows using Python & Pandas.
+**Founding Engineer** | *WorkSimplified* | `Aug 2026 – Present` (Remote)
+- Building an **AI Project-State & Validation Engine** — a continuously maintained, evidence-backed Project State created from fragmented conversations, documents, and stakeholder interactions.
+- Structuring requirements, assumptions, decisions, dependencies, risks, evidence, owners, and next actions to show what is known and what remains unresolved.
+- Building the validation layer between probabilistic AI and deterministic enterprise systems, with execution-ready requirements for handoff to Frappe, SAP, and Jira.
 
-**Data Analyst** | *Univitt AI Technologies Pvt. Ltd.* | `Aug 2025 – Nov 2025`
-- Built a **Solar PV Degradation Dashboard** for performance, reliability, and KPI analysis.
-- Cleaned, validated, and transformed production-scale datasets; engineered synthetic time-series data.
-- Performed anomaly detection, feature extraction, and trend analysis to derive missing parameters.
+**Founding Engineer** | *AegisOS* | `2025 – 2026`
+- Built an **AI Organizational Operating System** with specialized agents, defined roles, hierarchy, permissions, tools, and persistent organizational memory.
+- Manager agents decompose requirements and delegate to role-specific agents; coordinating agents review outputs, with sensitive actions escalated to humans for approval.
+- Selected for the AltaLab Winter 2026 cohort; reassessed direction during the cohort and pivoted to WorkSimplified.
+
+**AI / Agentic AI Intern** | *Navadhan Capitals Pvt. Ltd.* | `Apr 2026 – Jul 2026`
+- Built **SQLBot**, a company-aware natural-language-to-SQL system grounded in business rules, KPI definitions, and database mappings.
+- Developed an **AI-assisted Git & Jira conflict-resolution workflow** with human approval and rollback safeguards.
+- Automated validation of **15,244 loan accounts** across 3 business rules, producing auditable migration-quality outputs.
+- Built **AI/SRE workflows** over GCP logs and Bitbucket repos: error analysis, root-cause identification, solution reporting.
+
+**Data Analyst Intern** | *Univitt AI Technologies Pvt. Ltd.* | `Sep 2025 – Dec 2025`
+- Delivered production-scale **Solar PV degradation analytics**: data cleaning, validation, transformation, synthetic time-series generation.
+- Analyzed anomalies and KPIs and built interactive dashboards in a 3-member data team.
 
 **Machine Learning Intern** | *V Analytics Pvt. Ltd.* | `Jun 2024 – Jul 2024`
-- Built a **Flight Ticket Price Prediction** model (89% accuracy) deployed via Streamlit.
-- Delivered end-to-end pipeline: data cleaning, EDA, feature engineering, model evaluation, and web inference.
+- Built a **Flight Ticket Price Prediction** model (Linear Regression, 89% reported accuracy), full pipeline from preprocessing and EDA to Streamlit inference.
 
 ---
 
 ## 📦 Featured Projects
 
-**AegisAI** — *AI Organizational Platform* (In Development)
-A role-based multi-agent platform with hierarchical memory, knowledge-graph capabilities, and human-in-the-loop approval workflows.
+**SQLBot** — *Enterprise Natural-Language-to-SQL*
+Company-aware SQL generation using business rules, KPI definitions, and database mappings, with query planning and validation.
 
-**SQLBot** — *Natural-Language-to-SQL*
-Company-aware SQL generation using business rules and database mappings.
+**AI-Assisted Git & Jira Conflict Resolution** — *Navadhan Capitals*
+Identifies direct code conflicts and logical inconsistencies across Git branches, connected to repository context and Jira requirements, with human approval and rollback safeguards.
 
-**Solar PV Degradation Dashboard**
-Interactive Dash dashboard for monitoring solar panel performance and KPIs.
+**Solar PV Degradation Dashboard** — *Univitt AI Technologies*
+Production-scale solar panel degradation analytics with anomaly detection, KPI analysis, and interactive dashboards.
 
-**AI-Powered Learning Hub**
-Personalized study plans, quizzes, analytics, and gamification.
-
----
-
-## 🏆 Achievements
-
-- 🥇 **1st Place — BeyondBots AI Innovation Challenge** 2025
-- 🥈 **2nd Place — IdeatorX 3.0**, IESMCRC, Mumbai 2025
+**AegisOS** — *AI Organizational Operating System*
+Specialized agents with defined roles, hierarchy, permissions, tools, and persistent organizational memory.
 
 ---
 
 ## 🎓 Education
 
-- **BTech in Artificial Intelligence & ML** | *Universal AI University* | `2025 – 2028`
-- **Diploma in Artificial Intelligence & ML** | *K. K. Wagh Polytechnic* | `2022 – 2025` · 88%
+- **B.Tech in Artificial Intelligence & ML** | *Universal AI University, Karjat* | `2025 – 2028` · 3rd year
+- **Diploma in Artificial Intelligence & ML** | *K.K. Wagh Polytechnic, Nashik* | `2022 – 2025` · 88%
+- **Class 10 (SSC)** | *Rachana Vidyala, Nashik* | `2022` · 88%
+
+---
+
+## 🏆 Achievements & Programs
+
+- 🥇 **1st Place — BeyondBots AI Innovation Challenge**
+- 🥈 **2nd Place — IdeatorX 3.0 Hackathon**, IESMCRC, Mumbai
+- 🏆 **Winner — IT QUEST**
+- 🥈 **Runner-up — LoGMIEER TechFest 2K25**
+- 🚀 **Selected — AltaLab Winter 2026 Cohort** (AegisOS) · **Claude for Startups** · **NVIDIA Inception** · **Sarvam Startup Program**
+- 👥 **Programming Committee Head**, AIML Club, K.K. Wagh Polytechnic
+- 🎖️ **Certifications:** Git and Java (IIT Bombay Spoken Tutorial) · C Programming — 98% · MS-CIT — 94%
 
 ---
 
@@ -69,27 +86,36 @@ Personalized study plans, quizzes, analytics, and gamification.
 
 **Languages**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/c-AF8000?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **AI & ML**
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-336850?style=for-the-badge&logo=langchain&logoColor=fff)
-![LangGraph](https://img.shields.io/badge/LangGraph-336850?style=for-the-badge&logo=langgraph&logoColor=fff)
+![OpenCV](https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-**Visualization & Dashboards**
-![Plotly](https://img.shields.io/badge/plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Dash](https://img.shields.io/badge/dash-003B7D?style=for-the-badge&logo=plotly&logoColor=white)
+**Frameworks & Libraries**
+![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Streamlit](https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Dash](https://img.shields.io/badge/dash-003B7D?style=for-the-badge&logo=plotly&logoColor=white)
+![Plotly](https://img.shields.io/badge/plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)
 
-**Cloud & DevOps**
+**Tools & Cloud**
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Git](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+**Focus areas:** Agentic AI · RAG · Text-to-SQL · Prompt Engineering · NLP · Synthetic Data · System Design · AI Architecture · API Integration · Offline-First · Voice Systems
 
 ---
 
@@ -111,6 +137,8 @@ Personalized study plans, quizzes, analytics, and gamification.
 ---
 
 ## 📬 Let's connect
+
+📍 Nashik, Maharashtra, India
 
 <p align="left">
   <a href="https://github.com/Brajesh9373"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
