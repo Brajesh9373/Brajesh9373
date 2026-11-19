@@ -11,7 +11,7 @@
 
 ## About
 
-I build agentic AI systems that ship. As Founding Engineer at WorkSimplified, I'm building the AI Project-State & Validation Engine behind a discovery platform with a paying user. Before that I founded AegisOS (AltaLab Winter 2026) and built SQLBot at Navadhan Capitals, where I validated 15,244 loan accounts.
+I build agentic AI systems that ship. As Founding Engineer at WorkSimplified, I'm building the AI Project-State & Validation Engine behind a discovery platform with a paying user. Before that I founded AegisOS (AltaLab Winter 2026) and built SQLBot, a natural-language-to-SQL system, validating 15,244 loan accounts.
 
 ## Experience
 
@@ -24,7 +24,7 @@ I build agentic AI systems that ship. As Founding Engineer at WorkSimplified, I'
 - Built an AI organizational operating system: specialized agents with roles, hierarchy, permissions and persistent organizational memory.
 - Selected for the AltaLab Winter 2026 cohort; pivoted to WorkSimplified during the cohort. [Live demo](https://aegisos.tailb5c137.ts.net/)
 
-**AI / Agentic AI Intern** | Navadhan Capitals Pvt. Ltd. | `Apr 2026 – Jul 2026`
+**AI / Agentic AI Intern** | `Apr 2026 – Jul 2026`
 - Built SQLBot, a company-aware natural-language-to-SQL system (business rules, KPI definitions, DB mappings). Proprietary — no public repo.
 - Automated validation of **15,244 loan accounts** across 3 business rules, producing auditable migration-quality outputs.
 - AI-assisted Git & Jira conflict-resolution workflow with human approval and rollback; AI/SRE workflows over GCP logs and Bitbucket repos.
@@ -39,6 +39,10 @@ I build agentic AI systems that ship. As Founding Engineer at WorkSimplified, I'
 ## Featured Projects
 
 **[AegisOS](https://github.com/Brajesh9373/AegisOs)** — Enterprise AI workforce operating system: connect enterprise systems, coordinate AI workers with memory, knowledge graphs, governance and human approvals. [Live demo](https://aegisos.tailb5c137.ts.net/)
+
+**SQLBot** — Company-aware natural-language-to-SQL system, grounded in business rules, KPI definitions and database mappings, with query planning and validation. Validated 15,244 loan accounts.
+
+**AI-Assisted Git & Jira Conflict Resolution** — Identifies direct code conflicts and logical inconsistencies across Git branches, connected to repository context and Jira requirements, with human approval and rollback safeguards.
 
 ## Tech Stack
 
