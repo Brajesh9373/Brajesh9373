@@ -40,10 +40,6 @@ I build agentic AI systems that ship. As Founding Engineer at WorkSimplified, I'
 
 **[AegisOS](https://github.com/Brajesh9373/AegisOs)** — Enterprise AI workforce operating system: connect enterprise systems, coordinate AI workers with memory, knowledge graphs, governance and human approvals. [Live demo](https://aegisos.tailb5c137.ts.net/)
 
-**[Flight Ticket Price Prediction](https://github.com/Brajesh9373/Flight-price-prediction)** — Linear Regression model, full pipeline from preprocessing and EDA to a Streamlit inference app.
-
-**[Grunfeld Investment Forecasting](https://github.com/Brajesh9373/tsmf-mini-project)** — Streamlit ARIMAX app for investment forecasting.
-
 ## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
